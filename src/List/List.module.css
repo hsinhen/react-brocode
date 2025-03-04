@@ -1,0 +1,23 @@
+.linkCategory {
+  font-size: 2.5em;
+  font-weight: bold;
+  color: rgb(0, 0, 0);
+  margin-bottom: 10px;
+  text-align: center;
+  border: 3px solid;
+  border-radius: 5px;
+  background-color: rgb(43, 255, 0);
+}
+
+.listItem li {
+  font-size: 2em;
+  list-style: none;
+  color: black;
+  text-align: center;
+  margin: 0;
+}
+
+.listItem li:hover {
+  color: bisque;
+  cursor: pointer;
+}
